@@ -1,0 +1,317 @@
+{
+    "main_home": {
+        "home": "Trang chủ",
+        "reading_list": "Danh sách đọc",
+        "tags": "Các thẻ ",
+        "follow_tags": "Các thẻ theo dõi",
+        "create_news": "Tạo tin tức mới",
+        "users_following": "Những người dùng đang theo dõi",
+        "users_suggestion": "Những người dùng được gợi ý",
+        "users_top": "Top người dùng",
+        "report_abuse": "Báo cáo lạm dụng"
+    },
+
+    "auth": {
+        "signout": "Đăng xuất",
+        "login": "Đăng nhập",
+        "create_account": "Tạo tài khoản mới",
+        "sign_in_google": "Đăng nhập với Google",
+        "sign_in_facebook": "Đăng nhập với Facebook",
+        "forgot_password": "Quên mật khẩu",
+        "dont_have_account": "Không có tài khoản bằng email?",
+        "already_account": "Bạn đã có tài khoản?",
+        "sign_up": "Đăng ký",
+        "title_have_password": "Đã có mật khẩu? Tiếp tục với email của bạn",
+        "login_continue": "Đăng nhập để tiếp tục"
+    },
+
+    "common": {
+        "relevant": "Các bài liên quan",
+        "latest": "Các bài mới nhất",
+        "top": "Các bài top",
+        "search": "Tìm kiếm",
+        "all_tags": "Tất cả các thẻ",
+        "news": "tin tức",
+        "comment": "bình luận",
+        "followed": "người đã theo dõi",
+        "follow": "theo dõi",
+        "followers": "người theo dõi",
+        "following": "người đang theo dõi",
+        "min_read": "phút đọc",
+        "select_tag": "--Chọn thẻ--"
+    },
+
+    "news": {
+        "comment": "Bình luận",
+        "save": "Lưu",
+        "read_next": "Đọc tiếp",
+        "more_from": "Đọc thêm từ"
+    },
+
+    "notifications": {
+        "title": "Các thông báo",
+        "not_read": "Chưa đọc",
+        "read": "Đã đọc",
+        "like_news": "Các tin tức đã thích",
+        "followers": "Những người theo dõi",
+        "comments": "Các bình luận",
+        "like_comment": "Các bình luận đã thích",
+        "news": "Các tin tức",
+        "reply": "Các bình luận đã trả lời"
+    },
+
+    "tags": {
+        "title": "Các thẻ",
+        "title_detail": "Các thẻ theo dõi"
+    },
+
+    "button": {
+        "likes": "Lượt thích",
+        "like": "Thích",
+        "save": "Lưu",
+        "comment": "Bình luận",
+        "update": "Cập nhập",
+        "delete": "Xóa",
+        "edit": "Chỉnh sửa",
+        "save_profile_info": "Lưu thông tin hồ sơ",
+        "set_new_password": "Đặt lại mật khẩu mới",
+        "delete_account": "Xóa tài khoản",
+        "reply": "Phản hồi",
+        "copy_link": "Sao chép đường dẫn",
+        "copy_clipboard": "Sao chép vào bảng tạm",
+        "submit": "Gửi",
+        "clear": "Xóa hết",
+        "edit_profile": "Chỉnh sửa hồ sơ",
+        "unsave": "Không lưu",
+        "signout": "Đăng xuất",
+        "cancel": "Hủy",
+        "update_news": "Cập nhập tin tức",
+        "create_news": "Tạo tin tức mới",
+        "change_your_password": "Thay đổi mật khẩu của bạn",
+        "confirm_email": "Xác nhận email",
+        "send": "Gửi",
+        "share": "Chia sẻ",
+        "read_full_news": "Xem chi tiết",
+        "public": "Đăng lên",
+        "send_feedback": "Gửi phản hồi",
+        "back": "Trở lại",
+        "more": "Xem thêm" ,
+        "go_back": "Trở về",
+        "delete_all_notify": "Xóa hết thông báo",
+        "delete_all": "Xóa hết"
+    },
+
+    "profile": {
+        "edit_profile": "Chỉnh sửa hồ sơ",
+        "news_published": "tin tức đã đăng",
+        "news_published_2": "Tin tức đã đăng",
+        "comments_written": "bình luận đã viết",
+        "tags_followed": "thẻ đang theo dõi",
+        "follow": "Theo dõi",
+        "following": "Đang theo dõi"
+    },
+
+    "dashboard": {
+        "dashboard": "Bảng điều khiển",
+        "news": "Tin tức",
+        "create_news": "Tạo tin tức mới",
+        "followers": "Người dùng theo dõi",
+        "following_user": "Người dùng đang theo dõi",
+        "following_tags": "Thẻ đang theo dõi",
+        "news_likes": "Tin tức đã thích",
+        "reading_list": "Danh sách đọc",
+        "settings": "Cài đặt",
+        "following": "Đang theo dõi",
+        "languages": "Ngôn ngữ"
+    },
+
+    "selects": {
+        "all": "Tất cả"
+    },
+
+    "label": {
+        "Status": "Trạng thái"
+    },
+
+    "status": {
+        "draft": "Nháp",
+        "public": "Đăng lên",
+        "unpublic": "Ẩn"
+    },
+
+    "settings": {
+        "title": "Cài đặt cho",
+        "Profile": "Hồ sơ",
+        "Accounts": "Tài khoản",
+        "user": "Người dùng",
+        "other_information": "Những thông tin khác",
+        "banding": "Thương hiệu",
+        "languages": "Ngôn ngữ"
+    },
+
+    "input": {
+        "title": "Tiêu đề",
+        "sapo": "Mở đầu",
+        "read_times": "Thời gian đọc",
+        "status": "Trạng thái",
+        "tags": "Thẻ",
+        "thumbnail_image": "Ảnh nền",
+        "cover_image": "Ảnh bìa",
+        "content": "Nội dung",
+        "username": "Tên tài khoản",
+        "first_name": "Tên đầu",
+        "last_name": "Tên cuối",
+        "email": "Email",
+        "profile_image": "Ảnh hồ sơ",
+        "website_url": "Đường dẫn trang web",
+        "bio": "Tiểu sử",
+        "currently_learning": "Đang học tại",
+        "skill_languages": "Kỹ năng ngôn ngữ",
+        "education": "Giáo dục tại",
+        "work": "Làm việc tại",
+        "branding": "Thương hiệu",
+        "current_password": "Mật khẩu hiện tại",
+        "password": "Mật khẩu",
+        "confirm_password": "Xác nhận mật khẩu",
+        "set_new_password": "Đặt lại mật khẩu mới",
+        "delete_account": "Xóa tài khoản",
+        "dated_join": "Ngày tham gia",
+        "banding_color": "Màu sắc thương hiệu",
+        "remember_me": "Nhớ tài khoản của tôi",
+        "report": "Các báo cáo",
+        "message": "Thông tin"
+    },
+
+    "placeholder": {
+        "search_title": "Tìm kiếm theo tiêu đề...",
+        "search_username_name": "Tìm kiếm theo tên hoặc tên tài khoản...",
+        "add_discussion": "Thêm bình luận vào",
+        "search_tag": "Tìm kiếm theo tên...",
+        "what_do_you_do": "Bạn làm nghề gì?",
+        "where_did_you_go_to_school": "Bạn đã học ở đâu?",
+        "skill_languages": "Bất kỳ ngôn ngữ, frameworks, vv ...",
+        "typing_content": "Nhập nội dung tin tức ở đây...",
+        "choose_tags": "Chọn thẻ...",
+        "sapo": "Nhập mở đầu cho tin tức...",
+        "title": "Nhập tiêu đề cho tin tức...",
+        "drag_drop": "Chọn ảnh ở đây",
+        "short_bio": "Tiểu sử ngắn..."
+    },
+
+    "dates":{
+        "posted_on": "Đăng vào",
+        "joined_on": "Tham gia vào" 
+    },
+
+    "message": {
+        "search_for": "Kết quả tìm kiếm cho",
+        "reply_to": "phản hồi",
+        "signout": "Bạn có chắc chắn muốn đăng xuất không?",
+        "format_password_success": "Thay đổi mật khẩu thành công",
+        "delete_success": "Xóa tin tức thành công",
+        "create_account_success": "Tạo tài khoản thành công. Vui lòng đăng nhập để vào",
+        "login_success": "Đăng nhập thành công",
+        "signup_success": "Đăng nhập thành công. Vui lòng kiểm tra email của bạn",
+        "create_success": "Tạo tin tức thành công",
+        "update_success": "Cập nhập tin tức thành công",
+        "delete_account_success": "Xóa tài khoản thành công",
+        "set_new_password_success": "Đặt lại mật khẩu thành công",
+        "update_profile_success": "Cập nhập hồ sơ thành công",
+        "welcome": "Chào mừng đến với Cộng đồng Tin tức IT",
+        "welcome_2": "Cộng đồng Tin tức IT là một cộng đồng tuyệt vời cho tất cả mọi người",
+        "sidebar_header_desc": "Chúng tôi là nơi các lập trình viên chia sẻ, cập nhật thông tin và phát triển sự nghiệp của họ.",
+        "reset_password": "Đặt lại mật khẩu thành công",
+        "check_your_email_reset_password": "Vui lòng kiểm tra email của bạn để đặt lại mật khẩu",
+        "active_account": "Kích hoạt tài khoản của bạn thành công",
+        "please": "Vui lòng",
+        "to_comment_news": "để bình luận bài viết này",
+        "modal_text_auth": "Nếu bạn muốn theo dõi, bình luận, thích, lưu lại tin tức; bạn cần đăng nhập để tiếp tục.",
+        "loading_sign_up": "Đang đăng ký tài khoản của bạn...",
+        "public_news": "Công khai bài tin tức thành công",
+        "harassment": "Quấy rối hoặc lời nói căm thù",
+        "rude": "Thô lỗ hoặc thô tục",
+        "spam": "Spam hoặc vấn đề bản quyền",
+        "inappropriate": "Tin nhắn/danh mục danh sách không phù hợp",
+        "other": "Khác",
+        "report_success": "Báo cáo tin tức thành công",
+        "page_not_found": "Không tìm thấy trang",
+        "the_link_not_found": "Liên kết",
+        "the_link_not_found_2": "mà bạn đã ấn vào hoặc chuyển hướng",
+        "the_link_not_found_3": "có thể bị hỏng trên trang có thể đã bị xóa hoặc đổi tên."
+    },
+
+    "signout": {
+        "success": "Đăng xuất thành công"
+    },
+
+    "title_document": {
+        "welcome_title": "Chào mừng",
+        "news_community": "Cộng đồng Tin Tức",
+        "home": "Trang chủ",
+        "dashboard": "Bảng điều khiển",
+        "search": "Kết quả tìm kiếm cho",
+        "notifications": "Thông báo",
+        "create_news": "Tạo tin tức mới",
+        "update_news":"Cập nhật tin tức",
+        "settings": "Cài đặt",
+        "tags": "Thẻ",
+        "reading_list":"Danh sách đọc",
+        "report_abuse": "Báo cáo lạm dụng"
+    },
+
+    "empty": {
+        "no_news": "Không có bài tin tức nào",
+        "no_user_follow": "Không có người dùng nào theo dõi",
+        "no_user_following": "Không theo dõi người dùng nào",
+        "no_news_created": "Không có bài tin tức nào bạn đã tạo",
+        "no_news_liked": "Không có bài tin tức nào đã thích",
+        "no_news_reading": "Không có bài tin tức nào đã lưu",
+        "no_hash_tag_follow": "Không theo dõi thẻ nào",
+        "no_notifications": "Không có thông báo nào",
+        "no_news_reading_list": "Không có bài tin tức nào đã lưu",
+        "no_tags": "Không có thẻ nào",
+        "no_results": "Không có kết quả nào"
+    },
+
+    "share_news": {
+        "facebook": "Chia sẻ trên Facebook",
+        "whats_app": "Chia sẻ trên Whats App",
+        "twitter": "Chia sẻ trên Twitter",
+        "reddit": "Chia sẻ trên Reddit",
+        "telegram": "Chia sẻ trên Telegram",
+        "report": "Báo cáo lạm dụng"
+    },
+
+    "modal": {
+        "delete_news": "Bạn có chắc chắn muốn xóa bài viết này?",
+        "news_undo": "Bạn không thể hoàn tác hành động này, có lẽ bạn chỉ muốn",
+        "instead": "thay vì",
+        "delete_account": "Bạn có chắc chắn muốn xóa tài khoản của bạn?",
+        "delete_comment": "Bạn có chắc chắn muốn xóa bình luận này?",
+        "delete_notify": "Bạn có chắc chắn muốn xóa thông báo này?",
+        "unsave_reading": "Bạn có chắc chắn không lưu bài tin tức này?",
+        "public_news": "Bạn có muốn công khai bài tin tức này không?",
+        "delete_all_notify": "Bạn có muốn xóa tất cả các thông báo?"
+    },
+
+    "error_input": {
+        "error_name_news": "Vui lòng nhập tên tin tức",
+        "error_thumbnail_image": "Vui lòng chọn ảnh nền",
+        "error_cover_image": "Vui lòng chọn ảnh bìa",
+        "error_content_news": "Vui lòng nhập nội dung tin tức",
+        "maximum_10": "Tối đa 10MB",
+        "maximum_4": "Tối đa 4MB",
+        "type_image": "Kiểu hình ảnh không hợp lệ",
+        "at_least_1_minute": "Ít nhất 1 phút",
+        "maximum_4_hash_tag": "Tối đa 4 hash tags"
+    },
+
+    "liked your news": "đã thích bài viết của bạn",
+    "reply to your comment": "đã phản hồi bình luận của bạn",
+    "follow you": "đã theo dõi bạn",
+    "has been commented your news": "đã bình luận bài tin tức của bạn",
+    "mention you": "nhắc đến bạn",
+    "you": "bạn",
+    "like your comment": "thích bình luận của bạn",
+    "add new news": "đã thêm bài viết mới"
+}

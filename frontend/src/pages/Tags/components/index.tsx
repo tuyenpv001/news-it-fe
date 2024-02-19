@@ -1,0 +1,5 @@
+export * from '@/pages/Tags/components/TagsFilters'
+export { default as TagsItem } from '@/pages/Tags/components/TagsItem'
+export * from '@/pages/Tags/components/TagsList'
+export { default as TagsHome } from '@/pages/Tags/components/TagsHome'
+export { default as TagsDetail } from '@/pages/Tags/components/TagsDetail'

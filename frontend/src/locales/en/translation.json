@@ -1,0 +1,317 @@
+{
+    "main_home": {
+        "home": "Home",
+        "reading_list": "Reading List",
+        "tags": "Tags",
+        "follow_tags": "Tags Follow",
+        "create_news": "Create News",
+        "users_following": "Users Following",
+        "users_suggestion": "Suggestion Users",
+        "users_top": "Top Users",
+        "report_abuse": "Report abuse"
+    },
+
+    "auth": {
+        "signout": "Sign out",
+        "login": "Login",
+        "create_account": "Create account",
+        "sign_in_google": "Sign in with Google",
+        "sign_in_facebook": "Sign in with Google",
+        "forgot_password": "Forgot password",
+        "dont_have_account": "Don't have account by email?",
+        "already_account": "Already your account?",
+        "sign_up": "Sign up",
+        "title_have_password": "Have a password? Continue with your email address",
+        "login_continue": "Log in to continue"
+    },
+
+    "common": {
+        "relevant": "Relevant",
+        "latest": "Latest",
+        "top": "Top",
+        "search": "Search",
+        "all_tags": "All tags",
+        "news": "news",
+        "comment": "comment",
+        "followed": "followed",
+        "follow": "follow",
+        "followers": "followers",
+        "following": "following",
+        "min_read": "min read",
+        "select_tag": "--Select tag--"
+    },
+
+    "button": {
+        "likes": "Likes",
+        "like": "Like",
+        "save": "Save",
+        "comment": "Comment",
+        "update": "Update",
+        "delete": "Delete",
+        "edit": "Edit",
+        "save_profile_info": "Save Profile Information",
+        "set_new_password": "Set New Password",
+        "delete_account": "Delete Account",
+        "reply": "Reply",
+        "copy_link": "Copy link",
+        "copy_clipboard": "Copied to clipboard",
+        "submit": "Submit",
+        "clear": "Clear",
+        "edit_profile": "Edit profile",
+        "unsave": "Unsave",
+        "signout": "Yes, sign out",
+        "cancel": "Cancel",
+        "update_news": "Update News",
+        "create_news": "Create News",
+        "change_your_password": "Change your password",
+        "confirm_email": "Confirm email",
+        "send": "Send",
+        "share": "Share",
+        "read_full_news": "Read full news",
+        "public": "Public",
+        "send_feedback": "Send Feedback",
+        "back": "Back",
+        "more": "More",
+        "go_back": "Go back",
+        "delete_all_notify": "Delete all notify",
+        "delete_all": "Delete all"
+    },
+
+    "news": {
+        "comment": "Comment",
+        "save": "Save",
+        "read_next": "Read next",
+        "more_from": "More from"
+    },
+
+    "tags": {
+        "title": "Top tags",
+        "title_detail": "Tag Follows"
+    },
+
+    "notifications": {
+        "title": "Notifications",
+        "not_read": "Not read",
+        "read": "Read",
+        "like_news": "Liked news",
+        "followers": "Followers",
+        "comments": "Comments",
+        "like_comment": "Liked comment",
+        "news": "News",
+        "reply": "Reply comments"
+    },
+
+    "profile": {
+        "edit_profile": "Edit profile",
+        "news_published": "news published",
+        "news_published_2": "News Published",
+        "comments_written": "comments written",
+        "tags_followed": "tags followed",
+        "follow": "Follow",
+        "following": "Following"
+    },
+
+    "dashboard": {
+        "dashboard": "Dashboard",
+        "news": "News",
+        "create_news": "Create News",
+        "followers": "Followers",
+        "following_user": "Following user",
+        "following_tags": "Following tags",
+        "news_likes": "News likes",
+        "reading_list": "Reading list",
+        "settings": "Settings",
+        "following": "Following",
+        "languages": "Languages"
+    },
+
+    "selects": {
+        "all": "All"
+    },
+
+    "label": {
+        "status": "Status"
+    },
+
+    "status": {
+        "draft": "Draft",
+        "public": "Public",
+        "unpublic": "Unpublic"
+    },
+
+    "settings": {
+        "title": "Settings for",
+        "Profile": "Profile",
+        "Accounts": "Accounts",
+        "user": "User",
+        "other_information": "Other Information",
+        "banding": "Banding",
+        "languages": "Languages"
+    },
+
+    "input": {
+        "title": "Title",
+        "sapo": "Sapo",
+        "read_times": "Read Times",
+        "status": "Status",
+        "tags": "Tags",
+        "thumbnail_image": "Thumbnail Image",
+        "cover_image": "Cover Image",
+        "content": "Content",
+        "username": "Username",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "email": "Email",
+        "profile_image": "Profile Image",
+        "website_url": "Website URL",
+        "bio": "Bio",
+        "currently_learning": "Currently Learning",
+        "skill_languages": "Skills Languages",
+        "education": "Education",
+        "work": "Work",
+        "branding": "Branding",
+        "current_password": "Current password",
+        "password": "Password",
+        "confirm_password": "Confirm new password",
+        "set_new_password": "Set new password",
+        "delete_account": "Delete account",
+        "dated_join": "Dated join",
+        "banding_color": "Banding color",
+        "remember_me": "Remember me",
+        "report": "Reports",
+        "message": "Message"
+    },
+
+    "placeholder": {
+        "search_title": "Search title...",
+        "search_username_name": "Search username or name...",
+        "add_discussion": "Add to the discussion",
+        "search_tag": "Search name tag...",
+        "what_do_you_do": "What do you do?",
+        "where_did_you_go_to_school": "Where did you go to school?",
+        "skill_languages": "Any languages, frameworks,etc...",
+        "typing_content": "Typing content...",
+        "choose_tags": "Choose tags...",
+        "sapo": "Sapo news...",
+        "title": "Title news...",
+        "drag_drop": "Choose your file here",
+        "short_bio": "A short bio..."
+    },
+
+    "dates":{
+        "posted_on": "Posted on",
+        "joined_on": "Joined on"
+    },
+
+    "message": {
+        "search_for": "Search results for",
+        "reply_to": "reply to",
+        "signout": "Are you sure you want to sign out?",
+        "format_password_success": "Change your password successfully",
+        "delete_success": "Delete news successfully",
+        "create_account_success": "Create account successFully. Please login",
+        "login_success": "Login successfully",
+        "signup_success": "Sign up successfully. Check your email",
+        "create_success": "Create News successfully",
+        "update_success": "Update News successfully",
+        "delete_account_success": "Delete account successfully",
+        "set_new_password_success": "Set new password successfully",
+        "update_profile_success": "Update profile success",
+        "welcome_title": "Welcome!",
+        "welcome_2": "News Communicate is a community amazing for everyone",
+        "sidebar_header_desc": "We're a place where coders share, stay up-to-date and grow their careers.",
+        "reset_password": "Reset password successfully",
+        "check_your_email_reset_password": "Check your email to rest password",
+        "active_account": "Active your account successfully",
+        "please": "Please",
+        "to_comment_news": "to comment this news",
+        "modal_text_auth": "If you want to follow, comment, like, save; you need login to continue.",
+        "loading_sign_up": "Registering your account...",
+        "public_news": "Public news successfully",
+        "harassment": "Harassment or hate speech",
+        "rude": "Rude or vulgar",
+        "spam": "Spam or copyright issue",
+        "inappropriate": "Inappropriate listings message/category",
+        "other": "Other",
+        "report_success": "Report news successfully",
+        "page_not_found": "Page not found",
+        "the_link_not_found": "The link",
+        "the_link_not_found_2": "you clicked may be broken of the page ",
+        "the_link_not_found_3": "may have been removed or renamed."
+    },
+
+    "signout": {
+        "success": "Sign out successfully"
+    },
+
+    "empty": {
+        "no_news": "No news",
+        "no_user_follow": "No followers",
+        "no_user_following": "No following users",
+        "no_news_created": "No news you created",
+        "no_news_liked": "No news likes",
+        "no_news_reading": "No news reading",
+        "no_hash_tag_follow": "No hash tag follow",
+        "no_notifications": "No notification",
+        "no_news_reading_list": "No news reading list",
+        "no_tags": "No tags",
+        "no_results": "No results"
+    },
+
+    "title_document": {
+        "welcome": "Welcome to News Communicate",
+        "news_community": "News Community",
+        "home": "Home",
+        "dashboard": "Dashboard",
+        "search": "Search results for",
+        "notifications": "Notifications",
+        "create_news": "Create News",
+        "update_news":"Update News",
+        "settings": "Settings",
+        "tags": "Tags",
+        "reading_list":"Reading List",
+        "report_abuse": "Report abuse"
+    },
+
+    "share_news": {
+        "facebook": "Share to Facebook",
+        "whats_app": "Share to Whats App",
+        "twitter": "Share to Twitter",
+        "reddit": "Share to Reddit",
+        "telegram": "Share to Telegram",
+        "report": "Report abuse"
+    },
+
+    "modal": {
+        "delete_news": "Are you sure you want to delete this article?",
+        "news_undo": "You cannot undo this action, perhaps you just want to",
+        "instead": "thay thế",
+        "delete_account": "Are you sure delete your account?",
+        "delete_comment": "Are you sure you want to delete this comment?",
+        "delete_notify": "Are you sure you want to delete this notify?",
+        "unsave_reading": "Are you sure unsave this news?",
+        "public_news": "Are you want to public this news?",
+        "delete_all_notify": "Are you sure delete all notify?"
+    },
+    
+    "error_input": {
+        "error_name_news": "Please enter news name",
+        "error_thumbnail_image": "Please choose news thumbnail image",
+        "error_cover_image": "Please choose news cover image",
+        "error_content_news": "Please enter news content",
+        "maximum_10": "Maximum 10MB",
+        "maximum_4": "Maximum 4MB",
+        "type_image": "Invalid image",
+        "at_least_1_minute": "At least 1 minute", 
+        "maximum_4_hash_tag": "Maximum 4 hash tags"
+    },
+
+    "liked your news": "liked your news",
+    "reply to your comment": "reply to your comment",
+    "follow you": "follow you",
+    "has been commented your news": "has been commented your news",
+    "mention you": "mention you",
+    "you": "you",
+    "like your comment": "like your comment",
+    "add new news": "add new news"
+}
